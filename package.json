@@ -1,0 +1,12 @@
+{
+    "name": "mongo-to-sheets-sync",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.9.0",
+        "googleapis": "^105.0.0",
+        "mongodb": "^5.9.2"
+    }
+}
